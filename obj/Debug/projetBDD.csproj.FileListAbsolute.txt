@@ -1,0 +1,17 @@
+C:\Users\EDEM\source\repos\projetBDD\bin\Debug\projetBDD.exe.config
+C:\Users\EDEM\source\repos\projetBDD\bin\Debug\projetBDD.exe
+C:\Users\EDEM\source\repos\projetBDD\bin\Debug\projetBDD.pdb
+C:\Users\EDEM\source\repos\projetBDD\bin\Debug\MySql.Data.dll
+C:\Users\EDEM\source\repos\projetBDD\obj\Debug\projetBDD.csprojAssemblyReference.cache
+C:\Users\EDEM\source\repos\projetBDD\obj\Debug\projetBDD.csproj.CoreCompileInputs.cache
+C:\Users\EDEM\source\repos\projetBDD\obj\Debug\projetBDD.csproj.CopyComplete
+C:\Users\EDEM\source\repos\projetBDD\obj\Debug\projetBDD.exe
+C:\Users\EDEM\source\repos\projetBDD\obj\Debug\projetBDD.pdb
+C:\Users\EDEM\Desktop\projetBDD\bin\Debug\projetBDD.exe.config
+C:\Users\EDEM\Desktop\projetBDD\bin\Debug\projetBDD.exe
+C:\Users\EDEM\Desktop\projetBDD\bin\Debug\projetBDD.pdb
+C:\Users\EDEM\Desktop\projetBDD\obj\Debug\projetBDD.csprojAssemblyReference.cache
+C:\Users\EDEM\Desktop\projetBDD\obj\Debug\projetBDD.csproj.CoreCompileInputs.cache
+C:\Users\EDEM\Desktop\projetBDD\obj\Debug\projetBDD.csproj.CopyComplete
+C:\Users\EDEM\Desktop\projetBDD\obj\Debug\projetBDD.exe
+C:\Users\EDEM\Desktop\projetBDD\obj\Debug\projetBDD.pdb
